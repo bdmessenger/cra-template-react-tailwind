@@ -1,0 +1,28 @@
+{
+    "name": "cra-template-react-tailwind",
+    "author": "Brant Messenger",
+    "version": "1.1.2",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "tailwind"
+    ],
+    "main": "template.json",
+    "description": "The base Tailwind (PostCSS 7 Build) template for Create React App.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bdmessenger/cra-template-react-tailwind.git"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=12.13.0"
+    },
+    "bugs": {
+      "url": "https://github.com/bdmessenger/cra-template-react-tailwind/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
